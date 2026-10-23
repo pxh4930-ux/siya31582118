@@ -4,7 +4,7 @@
 export const siteConfig = {
   // 홈페이지 주소와 링크 미리보기 정보
   meta: {
-    siteUrl: "https://kim-bohum.onrender.com", // [TODO] 배포 후 실제 주소로 교체
+    siteUrl: "https://siya31582118-kim-bohum-zn43.vercel.app",
     title: "김보험 | 보험설계사",
     description: "필요한 만큼만 설계하고, 끝까지 곁에서 관리합니다.",
   },

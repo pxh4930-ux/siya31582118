@@ -35,7 +35,7 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="ko" className={pretendard.variable}>
-      <body className="antialiased">
+      <body className="break-keep antialiased">
         <Providers>{children}</Providers>
       </body>
     </html>

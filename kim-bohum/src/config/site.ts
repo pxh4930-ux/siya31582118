@@ -5,14 +5,14 @@ export const siteConfig = {
   // 홈페이지 주소와 링크 미리보기 정보
   meta: {
     siteUrl: "https://siya31582118-kim-bohum-zn43.vercel.app",
-    title: "김보험 | 보험설계사",
+    title: "박시아 | 보험설계사",
     description: "필요한 만큼만 설계하고, 끝까지 곁에서 관리합니다.",
   },
 
   // 첫 화면에 보이는 내 소개
   profile: {
-    name: "김보험",
-    initial: "김",
+    name: "박시아",
+    initial: "박",
     title: "보험설계사",
     company: "든든보험파트너스",
     tagline: "필요한 만큼만 설계하고, 끝까지 곁에서 관리합니다.",
@@ -22,7 +22,7 @@ export const siteConfig = {
 
   // 연락처
   contact: {
-    phone: "010-1234-5678", // [TODO] 실제 번호
+    phone: "010-3158-2118",
     email: "kim.bohum@example.com", // [TODO] 실제 이메일
     kakaoChannelUrl: "https://pf.kakao.com/_TODO/chat", // [TODO] 카카오톡 채널 채팅 링크
     hours: "평일 09:00–20:00 (주말은 카카오톡 문의)",
@@ -44,7 +44,7 @@ export const siteConfig = {
   sections: {
     services: "이런 분께 도움이 됩니다",
     process: "상담은 이렇게 진행돼요",
-    about: "김보험을 소개합니다",
+    about: "박시아를 소개합니다",
     contact: "연락하기",
   },
 
@@ -66,19 +66,19 @@ export const siteConfig = {
     note: "정리만 받아 보셔도 괜찮습니다.",
   },
 
-  // ④ 김보험을 소개합니다
+  // ④ 박시아를 소개합니다
   about: {
     greeting:
-      "안녕하세요, 보험설계사 김보험입니다. 8년 동안 고객분들의 보험을 정리하면서, 좋은 설계는 많이 넣는 것이 아니라 꼭 필요한 것만 남기는 것이라고 배웠습니다. 가입 이후에도 보험금 청구나 보장 점검이 필요할 때 언제든 연락하실 수 있는 설계사가 되겠습니다.",
+      "안녕하세요, 보험설계사 박시아입니다. 8년 동안 고객분들의 보험을 정리하면서, 좋은 설계는 많이 넣는 것이 아니라 꼭 필요한 것만 남기는 것이라고 배웠습니다. 가입 이후에도 보험금 청구나 보장 점검이 필요할 때 언제든 연락하실 수 있는 설계사가 되겠습니다.",
     credentials: ["보험설계사 경력 8년", "생명보험·손해보험 설계사 자격", "변액보험 판매 자격"], // [TODO] 추가 자격
   },
 
   // ⑥ 푸터
   legal: {
-    affiliation: "든든보험파트너스 소속 보험설계사 김보험",
+    affiliation: "든든보험파트너스 소속 보험설계사 박시아",
     registrationNo: "설계사 등록번호: [TODO]",
     adReviewNo: "광고심의필: [TODO]",
     notice: "보험계약 체결 전 상품설명서와 약관을 반드시 확인하시기 바랍니다.",
-    copyright: "© 2026 김보험",
+    copyright: "© 2026 박시아",
   },
 } as const;

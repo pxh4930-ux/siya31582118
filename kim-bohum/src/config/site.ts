@@ -23,7 +23,7 @@ export const siteConfig = {
   // 연락처
   contact: {
     phone: "010-3158-2118",
-    email: "kim.bohum@example.com", // [TODO] 실제 이메일
+    email: "pxh0412@naver.com",
     kakaoChannelUrl: "https://pf.kakao.com/_TODO/chat", // [TODO] 카카오톡 채널 채팅 링크
     hours: "평일 09:00–20:00 (주말은 카카오톡 문의)",
     regions: "서울 송파구·강동구, 경기 하남시",
